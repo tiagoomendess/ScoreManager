@@ -1,1 +1,1 @@
-First c# project. This is a score manager for OBS fotball streams. This program updates a text file with the score and time of the game.
+First c# project. This is a score manager for OBS football streams. This program updates a text file with the score and time of the game.
