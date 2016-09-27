@@ -1,0 +1,5 @@
+E:\IPCA\2 Semestre\LP2\ScoreManager\Exceptions\bin\Debug\Exceptions.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Exceptions\bin\Debug\Exceptions.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+E:\IPCA\2 Semestre\LP2\ScoreManager\Exceptions\obj\Debug\Exceptions.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Exceptions\obj\Debug\Exceptions.pdb

@@ -1,0 +1,14 @@
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\Teste.exe.config
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\Teste.exe
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\Teste.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\Exceptions.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerBL.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerBO.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerDL.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\Exceptions.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerBL.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerBO.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\bin\Debug\ScoreManagerDL.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\obj\Debug\Teste.exe
+E:\IPCA\2 Semestre\LP2\ScoreManager\Teste\obj\Debug\Teste.pdb

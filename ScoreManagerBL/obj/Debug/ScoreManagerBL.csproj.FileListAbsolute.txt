@@ -1,0 +1,11 @@
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerBL.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerBL.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\Exceptions.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerBO.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerDL.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\Exceptions.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerBO.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\bin\Debug\ScoreManagerDL.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\obj\Debug\ScoreManagerBL.csprojResolveAssemblyReference.cache
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\obj\Debug\ScoreManagerBL.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBL\obj\Debug\ScoreManagerBL.pdb

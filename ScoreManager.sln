@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreManagerDL", "ScoreManagerDL\ScoreManagerDL.csproj", "{FA0D879C-FBA8-40D7-A855-149F0DBC1A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreManagerBL", "ScoreManagerBL\ScoreManagerBL.csproj", "{F0ECE08D-72FE-4671-A308-4D473994D261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreManagerPL", "ScoreManagerPL\ScoreManagerPL.csproj", "{CA1CEF9E-8E5B-470A-BFF3-A8BCBDDEDE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreManagerBO", "ScoreManagerBO\ScoreManagerBO.csproj", "{1DACA722-3194-473F-B4F1-6E676B916B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{0653BFB4-DB61-4A63-8192-B1961D4F49A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{9B90B5DF-ACC3-4050-A942-F57ABBC1DDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0D879C-FBA8-40D7-A855-149F0DBC1A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0D879C-FBA8-40D7-A855-149F0DBC1A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0D879C-FBA8-40D7-A855-149F0DBC1A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0D879C-FBA8-40D7-A855-149F0DBC1A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0ECE08D-72FE-4671-A308-4D473994D261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0ECE08D-72FE-4671-A308-4D473994D261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0ECE08D-72FE-4671-A308-4D473994D261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0ECE08D-72FE-4671-A308-4D473994D261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1CEF9E-8E5B-470A-BFF3-A8BCBDDEDE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1CEF9E-8E5B-470A-BFF3-A8BCBDDEDE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1CEF9E-8E5B-470A-BFF3-A8BCBDDEDE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1CEF9E-8E5B-470A-BFF3-A8BCBDDEDE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DACA722-3194-473F-B4F1-6E676B916B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DACA722-3194-473F-B4F1-6E676B916B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DACA722-3194-473F-B4F1-6E676B916B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DACA722-3194-473F-B4F1-6E676B916B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0653BFB4-DB61-4A63-8192-B1961D4F49A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0653BFB4-DB61-4A63-8192-B1961D4F49A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0653BFB4-DB61-4A63-8192-B1961D4F49A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0653BFB4-DB61-4A63-8192-B1961D4F49A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B90B5DF-ACC3-4050-A942-F57ABBC1DDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B90B5DF-ACC3-4050-A942-F57ABBC1DDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B90B5DF-ACC3-4050-A942-F57ABBC1DDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B90B5DF-ACC3-4050-A942-F57ABBC1DDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tiagomendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ScoreManagerBL\\ScoreManagerBL.csproj
+		SccProjectName1 = ScoreManagerBL
+		SccLocalPath1 = ScoreManagerBL
+		SccProjectUniqueName2 = ScoreManagerDL\\ScoreManagerDL.csproj
+		SccProjectName2 = ScoreManagerDL
+		SccLocalPath2 = ScoreManagerDL
+		SccProjectUniqueName3 = ScoreManagerPL\\ScoreManagerPL.csproj
+		SccProjectName3 = ScoreManagerPL
+		SccLocalPath3 = ScoreManagerPL
+		SccProjectUniqueName4 = ScoreManagerBO\\ScoreManagerBO.csproj
+		SccProjectName4 = ScoreManagerBO
+		SccLocalPath4 = ScoreManagerBO
+		SccProjectUniqueName5 = Exceptions\\Exceptions.csproj
+		SccProjectName5 = Exceptions
+		SccLocalPath5 = Exceptions
+		SccProjectUniqueName6 = Teste\\Teste.csproj
+		SccProjectName6 = Teste
+		SccLocalPath6 = Teste
+	EndGlobalSection
+EndGlobal

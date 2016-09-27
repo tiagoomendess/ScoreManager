@@ -1,0 +1,5 @@
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBO\bin\Debug\ScoreManagerBO.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBO\bin\Debug\ScoreManagerBO.pdb
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBO\obj\Debug\ScoreManagerBO.csprojResolveAssemblyReference.cache
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBO\obj\Debug\ScoreManagerBO.dll
+E:\IPCA\2 Semestre\LP2\ScoreManager\ScoreManagerBO\obj\Debug\ScoreManagerBO.pdb
